@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**esateymenk/esateymenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">✨ Merhaba, Ben Esat</h1>
+<h3 align="center">A passionate Full Stack Web Development Student</h3>
+Hi, my name is Esat and I'm 15. I started software development a four teen ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer.
 
-Here are some ideas to get you started:
+<a href="https://discord.com/users/" title="Discord Profile"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Contact
+
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/discord.svg" />][discord]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/medium.svg" />][medium]
+
+[instagram]: https://www.instagram.com/
+[gmail]: mailto:erkamalper@gmail.com
+[discord]: https://discord.com/users/
+[medium]: https://medium.com/
+<br />
+
+## 💻 Technologies I Use
+
+<div align="center">
+    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
+    <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
+    <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+</div>
+
+## 📈 Github Stats
+
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
